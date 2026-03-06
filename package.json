@@ -37,7 +37,7 @@
   "homepage": "https://github.com/ranajahanzaib/typescript-package-template#readme",
   "devDependencies": {
     "@types/jest": "^27.0.3",
-    "jest": "^27.4.0",
+    "jest": "^30.2.0",
     "prettier": "^2.5.0",
     "ts-jest": "^27.0.7",
     "tslint": "^6.1.3",
